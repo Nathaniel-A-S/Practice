@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0001-two-sum/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Doja-Cats-Kitten/Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -27,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Doja-Cats-Kitten/Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
