@@ -39,10 +39,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0013-roman-to-integer/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/Doja-Cats-Kitten/Practice/tree/main/3620-network-recovery-pathways/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
