@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0001-two-sum/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Doja-Cats-Kitten/Practice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Doja-Cats-Kitten/Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Doja-Cats-Kitten/Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Doja-Cats-Kitten/Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Doja-Cats-Kitten/Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Doja-Cats-Kitten/Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0013-roman-to-integer/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Doja-Cats-Kitten/Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Doja-Cats-Kitten/Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Doja-Cats-Kitten/Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
