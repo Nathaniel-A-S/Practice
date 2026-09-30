@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Doja-Cats-Kitten/Practice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Doja-Cats-Kitten/Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Doja-Cats-Kitten/Practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Doja-Cats-Kitten/Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Doja-Cats-Kitten/Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Doja-Cats-Kitten/Practice/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -125,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Doja-Cats-Kitten/Practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Doja-Cats-Kitten/Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
